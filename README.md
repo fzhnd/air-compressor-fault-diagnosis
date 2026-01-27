@@ -61,7 +61,7 @@ pip install numpy scipy matplotlib scikit-learn xgboost
 1. Ensure your dataset is placed in the `AirCompressor` folder as described above.
 2. Run the main script:
 ```bash
-python air-compressor.ipynb
+jupyter notebook air-compressor.ipynb
 ```
 3. The script will output:
 * Preprocessing status.
