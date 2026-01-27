@@ -59,7 +59,7 @@ pip install numpy scipy matplotlib scikit-learn xgboost
 
 ## Usage
 1. Ensure your dataset is placed in the `AirCompressor` folder as described above.
-2. Run the main script:
+2. Run the notebook:
 ```bash
 jupyter notebook air-compressor.ipynb
 ```
